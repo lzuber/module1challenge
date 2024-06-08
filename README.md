@@ -16,6 +16,6 @@ THEN I find a concise, descriptive title
 
 ## 📝 Notes
 
-Git repo can be found here:
+Git repo can be found <a href="https://github.com/lzuber/module1challenge">here</a>.
 
-Git site can be found here:
+Git site can be found <a href="https://lzuber.github.io/module1challenge/Develop/">here</a>.
